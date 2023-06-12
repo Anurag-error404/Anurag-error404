@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   
   ---
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag-error404)](https://github.com/Anurag-error404/github-readme-stats)
 ### :hammer_and_wrench: Languages and Tools
   <div>
     
