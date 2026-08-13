@@ -1,71 +1,124 @@
+# Hey, I'm Anurag 👋
 
+<p align="center">
+  <b>Builder • Open Source Enthusiast • Full Stack Developer</b>
+</p>
 
-<!--
-**Anurag-error404/Anurag-error404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I enjoy building products, experimenting with AI, and shipping things that scratch my own itch.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
-  
-  <div id="badges">
+<p align="center">
   <a href="https://www.linkedin.com/in/anurag-verma-662475203/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/channel/UCX2jJ4Y2JQgB-RVHBjETHpg">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://github.com/Anurag-error404">
+    <img src="https://komarev.com/ghpvc/?username=Anurag-error404&color=blue" />
   </a>
-<!--   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
-</div>
-  
-  <img src="https://komarev.com/ghpvc/?username=Anurag-error404&style=flat-square&color=blue" alt=""/>
-  
-  <h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  
-  ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag-error404)](https://github.com/Anurag-error404/github-readme-stats)
-### :hammer_and_wrench: Languages and Tools
-  <div>
-    
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
-  
-  ---
+---
 
-### :fire: My Stats
+## 🚀 About Me
 
+* 🎓 Computer Science @ NSUT Delhi
+* 🛠 Building products across AI, Mobile, Web, and Cloud
+* 🌱 Exploring local-first software, LLMs, and developer tooling
+* ☁️ Working with AWS, Docker, ECS, Terraform, and modern cloud infrastructure
+* ❤️ Open source believer who enjoys learning from existing projects and sharing ideas with the community
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anurag-error404&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD3D18)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-error404&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-  </div>
+## 🔨 Currently Building
+
+### Lumora
+
+An open-source, local-first photo management platform focused on privacy and on-device intelligence.
+
+**Key Areas**
+
+* AI-powered photo search
+* Face recognition
+* Local-first architecture
+* Self-hosting support
+* Extensible plugin ecosystem
+
+---
+
+## ⚡ Tech Stack
+
+### Frontend
+
+* Flutter
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* FastAPI
+* Firebase
+* MongoDB
+* PostgreSQL
+
+### Cloud & DevOps
+
+* AWS
+* Docker
+* ECS
+* Terraform
+* GitHub Actions
+
+### AI & Data
+
+* Python
+* LangChain
+* Vector Databases
+* LLM Applications
+* Machine Learning
+
+---
+
+## 🌍 Open Source
+
+I enjoy exploring how other builders solve problems.
+
+Most of my projects start from a personal itch, but they evolve through community feedback, existing open-source work, and shared ideas.
+
+Building in public has taught me that great products rarely emerge in isolation. The best ideas often come from learning, remixing, and contributing back to the ecosystem.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anurag-error404&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-error404&layout=compact&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anurag-error404&theme=transparent" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* Improving Lumora
+* Exploring local AI workflows
+* Building AI-powered consumer applications
+* Learning distributed systems and cloud architecture
+* Contributing to open-source projects
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/anurag-verma-662475203/
+* GitHub: https://github.com/Anurag-error404
+
+---
+
+> "Build things that solve real problems, learn from everyone, and share what you discover."
